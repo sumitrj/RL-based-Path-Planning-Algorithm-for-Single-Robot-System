@@ -2,8 +2,11 @@
 
 ## Overview
 Path planning for robotics and needs more emphasis on algorithms in order to optimize the total distance travelled and energy spent by the system.
+
 For unexplored Environment with multiple Destinations to cover, Deterministic Algorithms like Kruskal’s Algorithm and Dijkstra's Algorithms fail to perform efficiently.
+
 Other Algorithms concerning Stochastic Algorithms also fail to understand the environment and plan the path accordingly.
+
 This project aims to design and test a customized Markov Decision Process Problem for path planning and attempt to solve it using Q-Learning, one of prominent research areas of Reinforcement Learning Algorithms.
 
 ## Problem Definition:
